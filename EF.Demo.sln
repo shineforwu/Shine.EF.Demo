@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF.DB.Mysql", "EF.DB.Mysql\EF.DB.Mysql.csproj", "{4D345535-6A4C-4E69-A814-341229F78E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoConsole", "DemoConsole\DemoConsole.csproj", "{DF3CABA8-0CCE-472A-A26F-1BE9999C402D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D345535-6A4C-4E69-A814-341229F78E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D345535-6A4C-4E69-A814-341229F78E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D345535-6A4C-4E69-A814-341229F78E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D345535-6A4C-4E69-A814-341229F78E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF3CABA8-0CCE-472A-A26F-1BE9999C402D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3CABA8-0CCE-472A-A26F-1BE9999C402D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3CABA8-0CCE-472A-A26F-1BE9999C402D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3CABA8-0CCE-472A-A26F-1BE9999C402D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFDE19E8-A82F-4644-9206-96762D70509A}
+	EndGlobalSection
+EndGlobal
